@@ -1,15 +1,29 @@
-# MESCOE AI Voice Agent Demos
+# MESCOE AI Voice Agent Demos — Team LOOPX
 
-This project contains various prototype designs and functional demos for the Modern Education Society's Wadia College of Engineering (MESCOE) website, integrated with an advanced **ElevenLabs Conversational AI Voice Agent**.
+**Problem Statement:** Autonomous College Helpdesk Agent
+*Build an agent that answers student queries from a knowledge base, handles multi-intent questions, asks clarifications, escalates unknown queries, generates tickets and maintains context.*
+
+This project contains various prototype designs and functional demos for the Modern Education Society's Wadia College of Engineering (MESCOE) website. Leveraging a custom-built mock data engine and the **ElevenLabs Conversational AI Voice Agent**, we have addressed all criteria of the hackathon problem statement.
 
 The goal of this project is to showcase a modern, human-centric, and interactive college website where visitors can instantly get answers about admissions, fees, courses, placements, and campus life using a 24/7 AI-powered voice and chat assistant.
 
+## Visuals
+![AI Chat Interface](docs/ai_widget_chat.png)
+*(Demo of the integrated chat and voice widget)*
+
+![Premium Landing Page](docs/mid_page.png)
+*(Demo of the premium college landing page concept)*
+
 ## Features Built
 
-1.  **Multiple Design Concepts:** We have built several different UI approaches for the college website ranging from traditional informative layouts to sleek, premium, dark-mode designs with glassmorphism.
-2.  **Conversational AI Integration:** An ElevenLabs AI agent (`agent_2801khzf2nkwfx4r98tt7dvtgkpr`) is smoothly integrated into the website interfaces.
-3.  **Real MESCOE Knowledge Base:** The AI is capable of answering detailed questions based on real scraped data about the college, including cutoff marks, NAAC accreditation, scholarship links (MahaDBT), hostel rules, and direct contact numbers.
-4.  **Multi-Language Voice Support:** The AI agent can manage queries and respond vocally in both English and Hindi (configurable in the ElevenLabs dashboard).
+## Hackathon Requirements Met by Team LOOPX
+
+1.  **Answers Student Queries:** The AI agents connect to a comprehensive, scraped knowledge base containing real MESCOE data (admissions, fees, cutoff lists).
+2.  **Handles Multi-Intent Questions:** Users can ask "What are the fees for CS and where is the hostel?" and the agent partitions and answers both intents.
+3.  **Asks Clarifications:** The agent prompts users for specifics if they ask vague questions like "Tell me about admissions" (e.g., "Are you looking for UG or PG?").
+4.  **Escalates Unknown Queries & Generates Tickets:** For queries outside the knowledge base, the chat system automatically generates a unique support ticket ID (e.g., `HELP-1004`) and tells the user that human staff will follow up.
+5.  **Maintains Context:** The chat session preserves conversation history to answer follow-up questions intelligently.
+6.  **Voice AI capability:** Integrated with ElevenLabs so users can actually *speak* to the helpdesk agent in multiple languages (English/Hindi).
 
 ## Demo Files Included
 
