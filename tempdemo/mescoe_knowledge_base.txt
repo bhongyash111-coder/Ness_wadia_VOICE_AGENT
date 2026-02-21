@@ -1,0 +1,526 @@
+================================================================================
+MESCOE — MES WADIA COLLEGE OF ENGINEERING, PUNE
+COMPLETE KNOWLEDGE BASE (Scraped from mescoe.mespune.org)
+Last Updated: February 2026
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: COLLEGE IDENTITY & CONTACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Full Name       : Modern Education Society's Wadia College of Engineering, Pune
+Short Name      : MESCOE / MES Wadia CoE
+Established     : 1999
+Managed By      : Modern Education Society, Pune (Est. 15 Feb 1932)
+Motto           : "For the Spread of Light"
+Website         : https://mescoe.mespune.org
+Parent Society  : https://mespune.org
+
+Address         : 19, Late Prin. V.K. Joag Path, Wadia College Campus,
+                  Near Ruby Hall Clinic, Near Pune Station, Pune – 411001,
+                  Maharashtra, India
+
+Phone           : (020)-26163831 / 7024
+Admissions Line : +91 7798883400 / 77988 84177 / 77988 84178
+Email (Info)    : info@mescoepune.org
+Email (Principal): principal@mescoepune.org
+Exam Email      : exam.query@mescoepune.org
+
+HOW TO REACH:
+  - From Pune Junction Railway Station: 1.2 km (approx 10 min walk)
+  - PMT Bus Stop: Bund Garden
+  - Near Ruby Hall Clinic
+
+SOCIAL MEDIA:
+  Instagram : @WadiaCoE       → https://www.instagram.com/WadiaCoe
+  YouTube   : @WadiaCoe       → https://www.youtube.com/@WadiaCoe
+  Facebook  : WadiaCoePune    → https://www.facebook.com/WadiaCoePune
+  Telegram  : Wadia CoE Official → https://t.me/+20XGhiK6ZKMzMWM9
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: ACCREDITATIONS & RANKINGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NAAC           : Accredited with 'A++' Grade (Highest Grade)
+NBA            : Accredited Programs (Computer Engg., E&TC, Mechanical)
+AICTE          : Approved
+SPPU           : Affiliated to Savitribai Phule Pune University (SPPU)
+NIRF           : NIRF Ranked (2024 report available)
+EOA 2024-25    : Extension of Approval document available
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: VISION, MISSION & OBJECTIVES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VISION:
+  To groom Motivated, Environment friendly, Self-esteemed, Creative and
+  Oriented Engineers.
+
+MISSION:
+  To Develop Industry Oriented Manpower to accept the challenges of
+  Globalization by:
+  1. Promoting Value Education through motivated trained faculty.
+  2. Maintaining conducive environment for education at affordable cost.
+  3. Promoting Industry Institute interaction.
+  4. Involving Alumni.
+
+GOALS & OBJECTIVES:
+  1. To ensure all-round development of students by providing co-curricular,
+     extra-curricular and entrepreneurship skills.
+  2. To imbibe research culture in students and faculty by providing
+     state-of-the-art research facilities and Industry Institute interaction.
+  3. To inculcate moral integrity in students and make them socially responsible.
+  4. To develop leadership qualities and ability to work as a team.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PRINCIPAL & ADMINISTRATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Principal       : Dr. M. P. Dale
+                  Email: principal@mescoepune.org
+                  Phone: 020-26163831
+Registrar       : Mr. S. S. Ingole
+                  Phone: (020) 26163831 (Ext 007)
+                  Email: registrar@mescoepune.org
+Exam Officer    : Dr. P. B. Chopade
+RTI Officer     : Dr. M. P. Dale (I/C Principal)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: COURSES OFFERED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+UG COURSES (Bachelor of Engineering — 4 Years Duration):
+  1. Computer Engineering            — Intake: 240
+  2. Electronics & TC Engineering    — Intake: 120
+  3. Mechanical Engineering          — Intake: 120
+  4. Automation & Robotics Engg.     — Intake:  60
+     (New — Est. Academic Year 2022-23)
+
+PG COURSES (Master of Engineering — 2 Years Duration):
+  1. ME in Computer Engineering      — Intake: 24
+  2. ME in Signal Processing         — (E&TC Dept)
+  3. ME in Mechanical Engineering Design
+
+WORKING PROFESSIONAL COURSES: https://ugpg24.dtemaharashtra.gov.in/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: DEPARTMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+── COMPUTER ENGINEERING ──
+  Established    : 1999
+  UG Intake      : 240 | PG Intake: 24
+  HOD            : Dr. (Mrs.) N. F. Shaikh
+  NBA Accredited : Yes
+  Special Features:
+    - Accops-Wadia CoE Center of Excellence in Virtualization
+    - Honours courses in:
+        * Artificial Intelligence & Machine Learning
+        * Data Science
+        * Internet of Things (IoT)
+        * Cyber Security
+        * Augmented & Virtual Reality (AR/VR)
+      (Since AY 2020-21)
+  URL: https://mescoe.mespune.org/department/computer-engineering/
+
+── ELECTRONICS & TELECOMMUNICATION ENGINEERING ──
+  Established    : 1999 (Initial intake: 60, expanded to 120 in 2011)
+  UG Intake      : 120
+  PG             : ME in Signal Processing (since 2013)
+  HOD            : Dr. (Mrs.) P. P. Mane
+  URL: https://mescoe.mespune.org/department/electronics-telecommunication-engineering/
+
+── MECHANICAL ENGINEERING ──
+  Established    : 1999
+  UG Intake      : 120
+  PG             : ME in Mechanical Engineering Design
+  HOD            : Dr. V. N. Raibhole
+  Focus          : Industry-ready engineers, R&D, manufacturing excellence
+  URL: https://mescoe.mespune.org/department/mechanical-engineering/
+
+── AUTOMATION & ROBOTICS ENGINEERING ──
+  Established    : 2022-23 (Newest department)
+  UG Intake      : 60
+  HOD            : Dr. V. N. Chougule
+  Focus          : Industry 4.0, autonomous systems, intelligent manufacturing
+  URL: https://mescoe.mespune.org/department/automation-and-robotics-engineering/
+
+── ME IN COMPUTER ENGINEERING (PG) ──
+  URL: https://mescoe.mespune.org/department/me-in-computer-engineering/
+
+── ME IN SIGNAL PROCESSING (PG) ──
+  URL: https://mescoe.mespune.org/department/me-in-signal-processing/
+
+── ME IN MECHANICAL DESIGN ENGINEERING (PG) ──
+  URL: https://mescoe.mespune.org/department/me-in-mechanical-design-engineering/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: ADMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS: ADMISSIONS OPEN FOR 2025-26
+
+HOW TO APPLY:
+  - Enquiry Form : https://mescoe.mespune.org/mescoe/admission-registration
+  - Call         : 7798883400 / 77988 84177 / 77988 84178
+  - Information Brochure: Available for download on website
+
+ADMISSION PROCESS:
+  - Centralized Admission Procedure (CAP) via DTE Maharashtra
+  - FE (First Year Engineering) via MHT-CET / JEE
+  - Direct Second Year (DSE) admissions also available
+  - ME/PG admissions via GATE/PGCET
+
+FE CUTOFF:
+  - Round 1 A.Y. 2024-25 cutoff available at:
+    https://mescoe.mespune.org/wp-content/uploads/2025/06/CUT-OFF-CET.pdf
+
+ME AGAINST CAP MERIT LIST:
+  - Available on admission section of website
+
+COURSES FOR ADMISSION:
+  - BE Computer Engineering
+  - BE Electronics & TC Engineering
+  - BE Mechanical Engineering
+  - BE Automation & Robotics
+  - ME Computer Engineering
+  - ME Signal Processing
+  - ME Mechanical Engineering Design
+
+FRA – FEE STRUCTURE:
+  URL: https://mescoe.mespune.org/admission/
+  - FRA Proposal for 2026-27 approved — document available on website
+  - Fees regulated by Shikshan Shulka Samiti (SSS)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: SCHOLARSHIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MahaDBT Scholarship:
+  - Form submission link OPEN for 2025-26
+  - Google Form: https://forms.gle/pcHV6G6rNmTDvwEi6
+  - Step-by-step guide available on website
+  - Important Notice: https://mescoe.mespune.org/wp-content/uploads/2025/10/Scholarship-Notice_202526.pdf
+
+Free Education for Girls (Mukhyamantri):
+  - Scheme available — Q&A PDF available on website
+
+PENDING FEES NOTICE:
+  - Students with pending fees: check portal and refer to Notice_FeesPending.pdf
+
+BANK FACILITY:
+  - Bank available within college campus
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 9: ERP / PORTAL / EMAIL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ERP PORTAL (Student Login):
+  URL: https://portal.vmedulife.com/public/auth/#/login/mescoe-pune
+  Use: Attendance, Results, Fee Payment, Exam Forms, Notifications
+
+COLLEGE EMAIL (Mail Login):
+  URL: https://mail.google.com/a/mescoepune.org/
+  Domain: @mescoepune.org / @student.mescoepune.org
+
+E-GRIEVANCE PORTAL:
+  URL: https://portal.vmedulife.com/institute/e-grievance/home/mescoe-pune
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 10: EXAMINATION SECTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Exam Officer   : Dr. P. B. Chopade
+Contact Email  : exam.query@mescoepune.org
+
+EXAM COMMITTEE:
+  1. Dr. M. P. Dale          — Principal (Chairman)
+  2. Dr. P. B. Chopade       — College Exam Officer
+  3. Dr. S. P. Khedkar       — Exam Co-ordinator (Computer Engg.)
+  4. Mrs. V. S. Galgali      — Exam Co-ordinator (First Year Engg.)
+  5. Ms. A. A. Dhavalikar    — Exam Co-ordinator (E&TC Engg.)
+  6. Mr. Suhas S. Jadhav     — Exam Co-ordinator (Mechanical Engg.)
+  7. Mr. S. S. Ingole        — Registrar
+  8. Ms. Geetanjali Pasalkar — Exam Clerk
+  9. Mr. Harshal Bhosle      — Exam Clerk
+
+RECENT EXAM NOTICES:
+  - SE 2019 Practical/Oral Exam Timetable 2025-26
+  - SE 2024 Nov 2025-26 Oral Practical Timetable
+  - TE PR-OR Timetable Nov 2025 (Updated 3 Nov)
+  - BE Practical/Oral Exam 25-26 Final (3 Nov)
+  - FE CCE Examination Time Table, SEM 2, 2024-25
+
+PREVIOUS QUESTION PAPERS:
+  URL: https://mescoe.mespune.org/engineering-questions-papers
+  Available for all branches
+
+EXAM FORMS:
+  - Form 1: Examination Discrepancy Form for Staff
+  - Form 2: Examination Duty Exchange Form
+  - Form 3: Examination Query Form for Students
+  - Form 4: Remedial Class Record Format
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 11: LIBRARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Area           : ~450 sq. mtrs
+Reading Hall   : Capacity 200 students
+Books          : 40,000+ books
+Software       : SLIM 21 WEB OPAC (Fully Automated)
+Digital Section: Available with upgraded multimedia PCs
+
+LIBRARY TIMINGS (Regular Period):
+  - Reading Hall open: 8 AM to 8 PM
+  - During examination: Open 24/7 for male students
+
+ONLINE DATABASES SUBSCRIBED:
+  - Science Direct (Elsevier) — 275 titles
+  - IEEE ASPP — 225 titles
+  - IEEE POP — 30,875 titles
+  - ASME (American Society for Mechanical Engineers) — 36 titles
+
+NPTEL VIDEO COLLECTION:
+  - 18,030 NPTEL lecture videos by IIT professors
+  - Covers: Humanities, Electrical, Civil, Graphics, Mechanical, Computer, E&TC
+
+BOOK BANK:
+  - Books at 25% of total cost
+  - Refund for students scoring 60%+ in both semesters
+
+COLLECTION (UG Department-wise):
+  Computer Engineering : 2486 titles, 13,122 volumes, 18 journals
+  E&TC Engineering     : 1885 titles, 10,177 volumes, 12 journals
+  Mechanical Engg.     : 2104 titles,  9,606 volumes, 12 journals
+  A&R Engineering      : Journals available
+
+OTHER RESOURCES:
+  - NPTEL Videos    : 18,030
+  - General eBooks  : 310
+  - Bound Volumes   : 507
+  - Reference Books : 2,387
+  - Research Books  : 79 (BCUD)
+  - GATE Books      : 168
+  - GRE/GMAT        : 19
+  - MPSC/UPSC       : 49
+  - Seating         : 190 (Students) + 10 (Faculty)
+
+INSTITUTIONAL MEMBERSHIPS:
+  1. ARAI (Automotive Research Association of India)
+  2. Savitribai Phule Pune University (SPPU)
+  3. National Digital Library (NDL)
+
+LIBRARY RULES (Key):
+  - Library Card compulsory
+  - Strict silence maintained
+  - No mobile phones
+  - No eatables inside
+  - College dress code applies
+  - Fine after due date on issued books
+  - Reprographic (Xerox) facility available
+
+URL: https://mescoe.mespune.org/library/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 12: HOSTEL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Type          : Separate Boys and Girls Hostels — within campus
+Admission     : First Come First Served basis
+URL           : https://mespune.org/hostel/
+
+RULES (Summary):
+  - Students not allowed outside hostel beyond 10:00 PM
+  - Round the clock security
+  - Ragging strictly prohibited (severe punishment)
+  - Housekeeping services provided
+  - College not responsible for loss of personal valuables
+  - Hostel fees (including service charges) to be paid in advance
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 13: TRAINING & PLACEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+URL: https://mescoe.mespune.org/training-and-placements/
+
+HIGHLIGHTS:
+  - 100+ companies recruit from campus every year
+  - Strong Training & Placement Office (TPO)
+  - Campus drives start for final year students
+  - Internship programs coordinated
+  - Skills workshops, mock interviews, resume building sessions
+
+TOP RECRUITERS INCLUDE:
+  TCS, Infosys, Wipro, HCL, Capgemini, Accenture, Cognizant,
+  Amazon, Deloitte, L&T, HDFC, Coditas, and 100+ more
+
+NOTICE:
+  - Final year students: Check TPO announcements on ERP Portal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 14: CLUBS & STUDENT ACTIVITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+URL: https://mescoe.mespune.org/clubs/
+
+ACTIVE CLUBS:
+  1.  Google Developer Student Club (GDSC / DSC)
+       - Focus: Google technologies, ML, Cloud, Web/App Dev
+       - Achievement: 250+ members trained on GCP, 100+ in Kotlin
+       - Global Rank in Credit Suisse Coding Challenge (54th rank)
+
+  2.  Model UN Club (MUN)
+       - Focus: Diplomacy, international relations, debate, UN simulations
+       - 221+ participants
+
+  3.  Work@Tech Club
+  4.  Robo Club
+  5.  Nakshatra
+  6.  Directing Visions (Film/Media)
+  7.  Designers Club
+  8.  SAEINDIA eBaja (Electric Vehicle)
+  9.  SAEINDIA mBaja (Baja competition)
+  10. Engineers Connect Club
+  11. E-Cell (Entrepreneurship Cell)
+       - Magazine: Ecell Core (Digital Copy available)
+  12. Electro Infinity Club (E&TC focused)
+
+OTHER STUDENT ACTIVITIES:
+  NSS    : National Service Scheme — active unit
+  Sports : Sports facilities available, achievements in university sports
+  Jhankaar: Annual Cultural Festival
+  Avishkar 2026: Research festival participation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 15: CONFERENCES & RESEARCH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ICRACE 2026:
+  - 1st International Conference on "Recent Advances in Computer Engineering"
+  - Date: 15th–16th April 2026
+  - Publication Partner: Cureus (in association with CSI Pune Chapter)
+  - URL: https://mescoe.mespune.org/icrace/
+
+OTHER CONFERENCES:
+  - RACE   : https://mescoe.mespune.org/race/
+  - ACCET  : https://mescoe.mespune.org/accet/
+  - RDME   : https://mescoe.mespune.org/rdme2025/
+  - SYNERGY: https://mescoe.mespune.org/synergy/
+
+RESEARCH:
+  URL: https://mescoe.mespune.org/research/
+  IIC (Institution's Innovation Council): https://mescoe.mespune.org/institutions-innovation-council-iic-mescoe
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 16: CENTRES OF EXCELLENCE / PARTNERSHIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  - Accops-Wadia CoE Center of Excellence in Virtualization
+  - Centre of Excellence for Youth Empowerment (ICT Academy, 2021)
+  - Oracle Academy Member (2021)
+  - ICT Academy Member
+  - Centre for Women Empowerment
+  - Salesforce Technology Partnership
+  - DELL EMC — Data Science & Big Data
+  - CISCO Networking Academy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 17: GRIEVANCE & ANTI-RAGGING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+URL: https://mescoe.mespune.org/grievance-anti-ragging/
+
+GRIEVANCE REDRESSAL CELL:
+  Online Portal: https://portal.vmedulife.com/institute/e-grievance/home/mescoe-pune
+  Chairman     : Prin. Dr. M. P. Dale
+  Member Sec.  : Dr. S. R. Khonde
+  Members: Dr. S. S. Kulkarni, Dr. R. S. Kadam, Mr. Harshal Muknak,
+           Mr. K. D. Hake, student representatives (Christy Daniel, Gauri Bhange)
+
+ANTI-RAGGING CELL:
+  Policy: ZERO TOLERANCE for ragging on and off campus
+  Chairman/Nodal Officer: Dr. M. P. Dale
+  Contact for complaints: Mrs. R. A. Khan — 9822119792
+  Members: Mr. P. N. Choudhari, Mr. A. Y. Deore, Mrs. V. J. Sonawane
+  Report immediately without fear — strict action taken per AICTE guidelines
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 18: ANNOUNCEMENTS & LATEST NOTICES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  [NEW] ICRACE 2026 — International Conference, 15–16 April 2026
+  [NEW] Notice: Regarding Pending Fees (Important) — Check portal
+  [NEW] MahaDBT Form Submission Link 2025-26 Open
+  [NEW] Online FRA Proposal for Fee Approval Year 2026-27 published
+  [NEW] Mandatory Disclosure 2025-2026 published
+  [NEW] Important Notice Regarding Scholarship 2025-26
+  [NEW] NIRF 2024 Report published
+  [NEW] Eligibility Numbers for 2024-25 Admitted Students
+  [NEW] ENTC Oral Practical Nov 2025 Timetable
+  [NEW] FE CCE Examination Timetable SEM 2, 2024-25
+  [NEW] FE Cutoff Round 1 A.Y. 2024-25 available
+  [NEW] Avishkar 2026 participation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 19: IMPORTANT LINKS DIRECTORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Home                : https://mescoe.mespune.org/
+About Us            : https://mescoe.mespune.org/about-us/
+Departments         : https://mescoe.mespune.org/department/
+Administration      : https://mescoe.mespune.org/administration/
+FRA Fee Structure   : https://mescoe.mespune.org/admission/
+IQAC/NAAC           : https://mescoe.mespune.org/national-assessment-and-accreditation-council/
+Students' Corner    : https://mescoe.mespune.org/student-corner/
+Placements          : https://mescoe.mespune.org/training-and-placements/
+Library             : https://mescoe.mespune.org/library/
+Examination Section : https://mescoe.mespune.org/examination-section/
+Grievance Cell      : https://mescoe.mespune.org/grievance-anti-ragging/
+Clubs               : https://mescoe.mespune.org/clubs/
+NSS                 : https://mescoe.mespune.org/national-service-scheme/
+Sports              : https://mescoe.mespune.org/sports/
+Gallery             : https://mescoe.mespune.org/gallery/
+Alumni              : https://mescoe.mespune.org/feedback-from-alumni/
+FAQ                 : https://mescoe.mespune.org/faqs/
+Contact Us          : https://mescoe.mespune.org/contact-us/
+Question Papers     : https://mescoe.mespune.org/engineering-questions-papers
+Research            : https://mescoe.mespune.org/research/
+IIC                 : https://mescoe.mespune.org/institutions-innovation-council-iic-mescoe
+Hostel              : https://mespune.org/hostel/
+
+ERP Login           : https://portal.vmedulife.com/public/auth/#/login/mescoe-pune
+Mail Login          : https://mail.google.com/a/mescoepune.org/
+e-Grievance         : https://portal.vmedulife.com/institute/e-grievance/home/mescoe-pune
+
+AICTE               : https://www.aicte-india.org/
+SPPU                : http://www.unipune.ac.in/
+DTE Maharashtra     : https://cetcell.mahacet.org/
+Shikshan Shulka     : http://www.sspnsamiti.gov.in/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 20: FAQ (From Website)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: How to reach MESCOE?
+A: From Pune Junction Railway Station: 1.2 km (10 min walk). PMT Stop: Bund Garden. Near Ruby Hall Clinic.
+
+Q: Which courses are offered?
+A: UG (4 Years): Computer Engg, E&TC Engg, Mechanical Engg, Automation & Robotics.
+   PG (2 Years): ME in Computer Engg, ME in Signal Processing, ME in Mechanical Design.
+
+Q: Is hostel facility available?
+A: Yes. Separate Boys and Girls Hostels within campus. Admission on First Come First Served basis.
+
+Q: Is there a bank facility nearby?
+A: Yes, bank is available within the campus.
+
+Q: Is there a centralized admission procedure?
+A: Yes, centralized CAP admission procedure.
+
+Q: Is the college near Pune Station?
+A: Yes, it is 1.2 km from Pune Station.
+
+================================================================================
+END OF KNOWLEDGE BASE — MESCOE (mescoe.mespune.org)
+================================================================================

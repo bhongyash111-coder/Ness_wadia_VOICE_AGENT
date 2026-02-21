@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MESCOE - AI Powered Campus</title>
+    <!-- Modern Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@300;400;500;700;800&display=swap"
+        rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="glass-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <i class="fa-solid fa-graduation-cap"></i> MESCOE <span class="ai-badge">AI</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#academics">Academics</a></li>
+                <li><a href="#admissions">Admissions</a></li>
+                <li><a href="#campus">Campus</a></li>
+            </ul>
+            <button class="btn-primary">Apply Now</button>
+        </div>
+    </nav>
+
+    <!-- Hero Section with AI Interface -->
+    <header class="hero" id="home">
+        <div class="hero-bg">
+            <img src="assets/hero_bg.png" alt="Abstract AI Background">
+            <div class="hero-overlay"></div>
+        </div>
+
+        <div class="hero-content">
+            <h1 class="hero-title">Experience the <br><span class="gradient-text">Future of Education</span></h1>
+            <p class="hero-subtitle">Welcome to modern learning at MESCOE. Ask our AI Assistant anything about our
+                campus, courses, or admissions.</p>
+
+            <!-- AI Chat Interface (Hero Focus) -->
+            <div class="ai-chat-interface">
+                <div class="chat-header">
+                    <div class="ai-avatar pulse">
+                        <i class="fa-solid fa-robot"></i>
+                    </div>
+                    <div>
+                        <h3>MESCOE Assistant</h3>
+                        <span class="status-indicator">Online</span>
+                    </div>
+                </div>
+
+                <div class="chat-body" id="chat-body">
+                    <div class="message ai-message">
+                        <p>Hello! I'm the MESCOE virtual concierge. How can I help you discover your future today?</p>
+                    </div>
+                    <!-- Dynamic messages will appear here -->
+                </div>
+
+                <div class="chat-input-area">
+                    <div class="input-wrapper">
+                        <input type="text" id="ai-input" placeholder="Ask me about Computer Engineering, Placements...">
+                        <button class="send-btn" id="send-btn"><i class="fa-solid fa-paper-plane"></i></button>
+                    </div>
+                    <div class="quick-prompts">
+                        <span class="prompt-chip">Tell me about B.E. CS</span>
+                        <span class="prompt-chip">Hostel Info</span>
+                        <span class="prompt-chip">Admission 2025</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Info Section (Bento Grid) -->
+    <section class="section" id="academics">
+        <div class="section-header">
+            <h2>Explore <span class="gradient-text">Academics</span></h2>
+            <p>Our top-tier programs are designed to build the innovators of tomorrow.</p>
+        </div>
+
+        <div class="bento-grid">
+            <!-- Bento Item 1 -->
+            <div class="bento-box bento-large">
+                <div class="bento-content">
+                    <div class="icon-wrap"><i class="fa-solid fa-laptop-code"></i></div>
+                    <h3>Computer Engineering</h3>
+                    <p>Established in 1999, fully NBA accredited. We offer B.E in CS and AI/ML specializations focusing
+                        on cutting-edge software development, AI, and systems engineering.</p>
+                    <a href="#" class="bento-link">View Course <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+
+            <!-- Bento Item 2 -->
+            <div class="bento-box">
+                <div class="bento-content">
+                    <div class="icon-wrap"><i class="fa-solid fa-microchip"></i></div>
+                    <h3>Electronics & Telecom</h3>
+                    <p>Learn signal processing, IoT, and embedded systems with hands-on labs.</p>
+                    <a href="#" class="bento-link">View Course <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+
+            <!-- Bento Item 3 -->
+            <div class="bento-box">
+                <div class="bento-content">
+                    <div class="icon-wrap"><i class="fa-solid fa-gears"></i></div>
+                    <h3>Mechanical Eng.</h3>
+                    <p>Design, synthesize, and build the physical engines of the future.</p>
+                    <a href="#" class="bento-link">View Course <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+
+            <!-- Bento Item 4 -->
+            <div class="bento-box bento-wide">
+                <div class="bento-content">
+                    <div class="icon-wrap"><i class="fa-solid fa-robot"></i></div>
+                    <h3>Automation & Robotics</h3>
+                    <p>Our newest program integrating mechanical, electrical, and AI systems to build intelligent
+                        autonomous machines.</p>
+                    <a href="#" class="bento-link">View Course <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Campus Life Section -->
+    <section class="section campus-section" id="campus">
+        <div class="section-header">
+            <h2>Vibrant <span class="gradient-text">Campus Life</span></h2>
+        </div>
+        <div class="campus-showcase">
+            <div class="campus-image-wrap">
+                <img src="assets/campus.png" alt="Students on campus">
+                <div class="campus-image-overlay">
+                    <h3>Collaborative Environment</h3>
+                    <p>Over 50+ clubs and fully equipped innovation labs to build your projects.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="logo">
+                <i class="fa-solid fa-graduation-cap"></i> MESCOE
+            </div>
+            <p>&copy; 2026 Modern Education Society. Designed as an AI concept.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+
+    <!-- ElevenLabs Conversational AI Widget -->
+    <elevenlabs-convai agent-id="agent_2801khzf2nkwfx4r98tt7dvtgkpr"></elevenlabs-convai>
+    <script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
+</body>
+
+</html>
